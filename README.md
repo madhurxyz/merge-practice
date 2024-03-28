@@ -1,4 +1,4 @@
-# Marcy Lab School Staff
+Marcy Lab School Staff
 
 program managers
 new york - emmanuel afrifa
