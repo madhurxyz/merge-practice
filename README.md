@@ -1,49 +1,49 @@
 # Marcy Lab School Staff
 
 program managers
-emmanuel
-jolie
-lauren
+emmanuel afrifa
+jolie dudley
+lauren wells
 
 lead instructors
-ben
-gonzalo
-itzel
-madhur
+ben spector
+gonzalo romero
+itzel rendon
+madhur malhotra
 
 associate instructors
-zo
-carmen
-leo
+zo manzoor
+carmen salas
+leo cedillo
 
 co-founders
-maya
-reuben
+maya bhattacharjee-marcantonio
+reuben ogbonna
 
 partnerships team
-travis
-alyse
-alberto
-joanna
-jorge
+travis fox
+alyse amato
+alberto tornes
+joanna ferrel 
+jorge hadad rey
 
 admissions team
-hollins
-kehinde
-calvin
-aneika
+hollins gause
+kehinde majekodunmi
+calvin mason
+aneika nanton
 
 fellowship team
-motun
-ana
-laura
+motun bolumole
+ana reyes
+laura rouse-hoyle
 
 executive team
-najette
-ashley
-alani
+najette swain
+ashley lusky
+alani bass
 
 executive assistants
-elaine
-danika
-emma
+elaine otuije 
+danika larkin
+emma plascencia
