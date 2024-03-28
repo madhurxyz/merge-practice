@@ -11,21 +11,9 @@ gonzalo romero
 itzel rendon
 madhur malhotra
 
-associate instructors
-zo manzoor
-carmen salas
-leo cedillo
-
 co-founders
 maya bhattacharjee-marcantonio
 reuben ogbonna
-
-partnerships team
-travis fox
-alyse amato
-alberto tornes
-joanna ferrel 
-jorge hadad rey
 
 admissions team
 hollins gause
