@@ -11,6 +11,7 @@ itzel rendon
 madhur malhotra
 
 associate instructors
+zo manzoor
 carmen salas
 leo cedillo
 
@@ -20,8 +21,3 @@ alyse amato
 alberto tornes
 joanna ferrel 
 jorge hadad rey
-
-admissions team
-hollins gause
-kehinde majekodunmi
-aneika nanton
